@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "description": "Small project made to learn gatsby from https://www.gatsbyjs.org/tutorial/",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "gatsby-plugin-emotion": "^4.1.24",
+    "gatsby-plugin-typography": "^2.3.24",
+    "react-typography": "^0.16.19",
+    "typography": "^0.16.19",
+    "typography-theme-kirkham": "^0.16.19"
+  },
   "devDependencies": {
     "gatsby-cli": "^2.10.10"
   },
