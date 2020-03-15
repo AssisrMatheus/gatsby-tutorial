@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-tutorial",
+  "version": "1.0.0",
+  "description": "Small project made to learn gatsby from https://www.gatsbyjs.org/tutorial/",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gatsby-cli": "^2.10.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AssisrMatheus/gatsby-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AssisrMatheus/gatsby-tutorial/issues"
+  },
+  "homepage": "https://github.com/AssisrMatheus/gatsby-tutorial#readme"
+}
